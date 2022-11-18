@@ -1,11 +1,3 @@
-# Juan-sefire_Repository
-Nama lengkap	 	: Juan Erlando sefire
-Nama panggilan 	: Juan
-Usia 			      : 22 Tahun 
-Tanggal lahir 	: 8 April 2000 
-Tempat tinggal	: Semarang 
-TK 		        	: TK Sto Paulus Fruata
-SD 			        : SD  Sto Paulus Fruata
-SMP 		      	: SMP Negri 6 Kaimana
- SMA		      	: SMK Negri 1 Bintuni
-Kuliah		    	: Universitas Katolik Soegijapranata
+Portofolio saya setelah UAS
+Saya siap untuk mengikuti KKN, KKN akan dilaksanakan pada bulan Januari 2023 KKN di Desa.
+Kami nanti akan melaksanakan pembekalan 3 hari untuk persiapan Live In KKN di Desa. Lalu setelah KKN berakhir, saya akan mengikuti KKL bersama dengan teman-teman kelompok. Lalu setelah itu akan melanjutkan perkuliahan seperti biasa.
